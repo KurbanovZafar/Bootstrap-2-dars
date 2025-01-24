@@ -1,0 +1,23 @@
+.a{
+    border-radius: 15px;
+}
+.ss{
+    margin-left: 550px;
+}
+.b{
+    background: linear-gradient(90deg,orange,orangered);
+}
+.d{
+    background: linear-gradient(45deg, rgb(187, 125, 135), pink, purple);
+}
+.c{
+    background: linear-gradient(45deg, blue, darkblue);
+}
+.e{
+    background: linear-gradient(22.5deg, blue, #5cff6c, aqua);
+}
+.img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
